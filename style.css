@@ -27,7 +27,7 @@ main {
   margin: 0px auto;
   padding: 120px 0px 0px 0px;
   background-image: linear-gradient(#09ffeb, 
-  darkblue);
+  rgb(0, 25, 53));
   display: grid;
   grid-template-columns: repeat(12, 1fr);
 }
